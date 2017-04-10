@@ -1,14 +1,14 @@
 {
   "name": "dk-tough-cookie-filestore",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "file store for tough-cookie",
   "main": "index.js",
   "author": "dkuzmenchuk",
   "license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/dkuzmenchuk/tough-cookie-filestore.git"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dkuzmenchuk/tough-cookie-filestore.git"
+  },
   "dependencies": {
     "tough-cookie": "~0.12.1"
   }
