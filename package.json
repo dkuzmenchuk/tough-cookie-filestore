@@ -1,6 +1,6 @@
 {
   "name": "dk-tough-cookie-filestore",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "file store for tough-cookie",
   "main": "index.js",
   "author": "dkuzmenchuk",
